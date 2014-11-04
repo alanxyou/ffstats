@@ -1,0 +1,16 @@
+Tom Brady	QB	QB	13
+Montee Ball	RB	RB	1
+Pierre Thomas	RB	RB	11
+Jordy Nelson	WR	WR	5
+Roddy White	WR	WR	0
+Zach Ertz	TE	TE	1
+Michael Crabtree	WR	FLEX	14
+Bengals D/ST	D/ST	D/ST	11
+Dan Carpenter	K	K	5
+Jamaal Charles	RB	BE	0
+Jordan Cameron	TE	BE	2
+Rueben Randle	WR	BE	2
+Kelvin Benjamin	WR	BE	17
+Alex Smith	QB	BE	18
+Carlos Hyde	RB	BE	7
+Josh Gordon	WR	BE	0

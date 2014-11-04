@@ -1,0 +1,16 @@
+Matthew Stafford	QB	QB	29
+Eddie Lacy	RB	RB	4
+Fred Jackson	RB	RB	7
+Emmanuel Sanders	WR	WR	8
+Terrance Williams	WR	WR	11
+Julius Thomas	TE	TE	28
+Justin Hunter	WR	FLEX	6
+Seahawks D/ST	D/ST	D/ST	10
+Stephen Gostkowski	K	K	10
+Delanie Walker	TE	BE	9
+Bengals D/ST	D/ST	BE	5
+Blair Walsh	K	BE	13
+Buccaneers D/ST	D/ST	BE	1
+Ladarius Green	TE	BE	2
+Tavon Austin	WR	BE	3
+Daniel Thomas	RB	BE	0

@@ -1,0 +1,16 @@
+Russell Wilson	QB	QB	17
+Toby Gerhart	RB	RB	5
+Rashad Jennings	RB	RB	15
+Demaryius Thomas	WR	WR	4
+Keenan Allen	WR	WR	3
+Jimmy Graham	TE	TE	8
+Vincent Jackson	WR	FLEX	3
+49ers D/ST	D/ST	D/ST	17
+Justin Tucker	K	K	3
+Mike Wallace	WR	BE	12
+Doug Baldwin	WR	BE	1
+James Starks	RB	BE	4
+Roy Helu	RB	BE	5
+Marqise Lee	WR	BE	6
+Joe Flacco	QB	BE	15
+Eagles D/ST	D/ST	BE	14

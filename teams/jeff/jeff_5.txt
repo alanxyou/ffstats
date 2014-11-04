@@ -1,0 +1,16 @@
+Joe Flacco	QB	QB	7
+Jamaal Charles	RB	RB	8
+Montee Ball	RB	RB	1
+Jordy Nelson	WR	WR	12
+Kelvin Benjamin	WR	WR	1
+Jordan Cameron	TE	TE	3
+Roddy White	WR	FLEX	2
+Bengals D/ST	D/ST	D/ST	-8
+Dan Carpenter	K	K	11
+Michael Crabtree	WR	BE	1
+Josh Gordon	WR	BE	0
+Knile Davis	RB	BE	0
+Kirk Cousins	QB	BE	19
+Owen Daniels	TE	BE	7
+Maurice Jones-Drew	RB	BE	0
+Darren McFadden	RB	BE	0

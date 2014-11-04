@@ -1,0 +1,16 @@
+Nick Foles	QB	QB	26
+Matt Forte	RB	RB	7
+Giovani Bernard	RB	RB	16
+Pierre Garcon	WR	WR	19
+Reggie Wayne	WR	WR	6
+Jason Witten	TE	TE	4
+Steve Smith	WR	FLEX	10
+Rams D/ST	D/ST	D/ST	9
+Phil Dawson	K	K	1
+A.J. Green	WR	BE	10
+Danny Woodhead	RB	BE	0
+DeAngelo Williams	RB	BE	0
+Andy Dalton	QB	BE	11
+Christine Michael	RB	BE	0
+Devonta Freeman	RB	BE	-1
+Zach Miller	TE	BE	1

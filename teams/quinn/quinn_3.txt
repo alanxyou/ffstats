@@ -1,0 +1,16 @@
+Aaron Rodgers	QB	QB	10
+Joique Bell	RB	RB	3
+Jeremy Hill	RB	RB	9
+Larry Fitzgerald	WR	WR	1
+T.Y. Hilton	WR	WR	8
+Rob Gronkowski	TE	TE	10
+Stevan Ridley	RB	FLEX	5
+Patriots D/ST	D/ST	D/ST	7
+Adam Vinatieri	K	K	16
+Doug Martin	RB	BE	0
+Broncos D/ST	D/ST	BE	8
+Dwayne Bowe	WR	BE	3
+Philip Rivers	QB	BE	18
+Robbie Gould	K	BE	10
+C.J. Anderson	RB	BE	0
+Jared Cook	TE	BE	7

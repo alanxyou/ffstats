@@ -1,0 +1,16 @@
+Matthew Stafford	QB	QB	10
+Eddie Lacy	RB	RB	24
+Matt Asiata	RB	RB	5
+Emmanuel Sanders	WR	WR	10
+Brian Quick	WR	WR	20
+Delanie Walker	TE	TE	4
+Julius Thomas	TE	FLEX	18
+Seahawks D/ST	D/ST	D/ST	2
+Stephen Gostkowski	K	K	21
+Terrance Williams	WR	BE	13
+Fred Jackson	RB	BE	11
+Ahmad Bradshaw	RB	BE	5
+James Jones	WR	BE	0
+Travis Kelce	TE	BE	7
+Lions D/ST	D/ST	BE	11
+Mohamed Sanu	WR	BE	13

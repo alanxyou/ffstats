@@ -1,0 +1,16 @@
+Andrew Luck	QB	QB	19
+Darren Sproles	RB	RB	5
+Reggie Bush	RB	RB	4
+Brandon Marshall	WR	WR	4
+Andre Johnson	WR	WR	5
+Greg Olsen	TE	TE	19
+Eddie Royal	WR	FLEX	4
+Bears D/ST	D/ST	D/ST	7
+Matt Bryant	K	K	8
+Ryan Mathews	RB	BE	0
+Shane Vereen	RB	BE	10
+Wes Welker	WR	BE	5
+LeGarrette Blount	RB	BE	3
+Miles Austin	WR	BE	5
+Alex Smith	QB	BE	13
+Carlos Hyde	RB	BE	4

@@ -1,0 +1,16 @@
+Tony Romo	QB	QB	18
+C.J. Spiller	RB	RB	2
+Shonn Greene	RB	RB	3
+Julio Jones	WR	WR	10
+Marques Colston	WR	WR	6
+John Carlson	TE	TE	1
+Alshon Jeffery	WR	FLEX	15
+Packers D/ST	D/ST	D/ST	23
+Mike Nugent	K	K	4
+Adrian Peterson	RB	BE	0
+Vernon Davis	TE	BE	0
+Golden Tate	WR	BE	19
+Sammy Watkins	WR	BE	8
+Greg Jennings	WR	BE	3
+Josh McCown	QB	BE	0
+Sebastian Janikowski	K	BE	0

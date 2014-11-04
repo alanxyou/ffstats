@@ -1,0 +1,16 @@
+Jay Cutler	QB	QB	16
+Marshawn Lynch	RB	RB	24
+DeMarco Murray	RB	RB	17
+Antonio Brown	WR	WR	21
+Cordarrelle Patterson	WR	WR	6
+Dennis Pitta	TE	TE	1
+Darren McFadden	RB	FLEX	5
+Redskins D/ST	D/ST	D/ST	-2
+Greg Zuerlein	K	K	7
+Victor Cruz	WR	BE	16
+Torrey Smith	WR	BE	2
+Maurice Jones-Drew	RB	BE	0
+Knowshon Moreno	RB	BE	0
+Hakeem Nicks	WR	BE	11
+Knile Davis	RB	BE	17
+Brandin Cooks	WR	BE	7

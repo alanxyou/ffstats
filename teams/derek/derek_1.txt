@@ -1,0 +1,16 @@
+Robert Griffin	QB	QB	8
+LeSean McCoy	RB	RB	11
+Alfred Morris	RB	RB	9
+Dez Bryant	WR	WR	5
+Jeremy Maclin	WR	WR	15
+Zach Ertz	TE	TE	13
+Reggie Bush	RB	FLEX	5
+Chiefs D/ST	D/ST	D/ST	1
+Nick Folk	K	K	9
+Chris Johnson	RB	BE	14
+Kyle Rudolph	TE	BE	7
+Pierre Thomas	RB	BE	8
+Danny Amendola	WR	BE	1
+Charles Clay	TE	BE	2
+Ben Roethlisberger	QB	BE	16
+Markus Wheaton	WR	BE	9

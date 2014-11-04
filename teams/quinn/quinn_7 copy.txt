@@ -1,0 +1,16 @@
+Aaron Rodgers	QB	QB	24
+Antone Smith	RB	RB	1
+Ahmad Bradshaw	RB	RB	18
+Larry Fitzgerald	WR	WR	2
+Mohamed Sanu	WR	WR	5
+Rob Gronkowski	TE	TE	6
+T.Y. Hilton	WR	FLEX	10
+Patriots D/ST	D/ST	D/ST	2
+Adam Vinatieri	K	K	11
+Jeremy Hill	RB	BE	1
+Robbie Gould	K	BE	2
+Jared Cook	TE	BE	2
+Vincent Jackson	WR	BE	0
+Devin Hester	WR	BE	2
+Bobby Rainey	RB	BE	0
+Brandon LaFell	WR	BE	5

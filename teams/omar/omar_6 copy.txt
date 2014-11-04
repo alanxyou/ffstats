@@ -1,0 +1,16 @@
+Philip Rivers	QB	QB	25
+Eddie Lacy	RB	RB	4
+Fred Jackson	RB	RB	9
+Emmanuel Sanders	WR	WR	3
+Brian Quick	WR	WR	1
+Delanie Walker	TE	TE	5
+Julius Thomas	TE	FLEX	17
+Lions D/ST	D/ST	D/ST	20
+Stephen Gostkowski	K	K	16
+Matthew Stafford	QB	BE	11
+Seahawks D/ST	D/ST	BE	9
+Terrance Williams	WR	BE	7
+Matt Asiata	RB	BE	1
+James Jones	WR	BE	11
+Travis Kelce	TE	BE	0
+Matt Prater	K	BE	5

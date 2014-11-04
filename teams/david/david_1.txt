@@ -1,0 +1,16 @@
+Andrew Luck	QB	QB	25
+Ryan Mathews	RB	RB	12
+Shane Vereen	RB	RB	12
+Brandon Marshall	WR	WR	11
+Andre Johnson	WR	WR	9
+Greg Olsen	TE	TE	14
+Anquan Boldin	WR	FLEX	9
+Ravens D/ST	D/ST	D/ST	1
+Matt Bryant	K	K	18
+Wes Welker	WR	BE	0
+Darren Sproles	RB	BE	14
+Riley Cooper	WR	BE	2
+Eli Manning	QB	BE	6
+LeGarrette Blount	RB	BE	6
+Jonathan Stewart	RB	BE	3
+Coby Fleener	TE	BE	2

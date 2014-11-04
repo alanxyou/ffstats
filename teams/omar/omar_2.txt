@@ -1,0 +1,16 @@
+Matthew Stafford	QB	QB	13
+Eddie Lacy	RB	RB	5
+Fred Jackson	RB	RB	4
+Emmanuel Sanders	WR	WR	10
+Justin Hunter	WR	WR	2
+Julius Thomas	TE	TE	9
+Delanie Walker	TE	FLEX	20
+Seahawks D/ST	D/ST	D/ST	-1
+Stephen Gostkowski	K	K	14
+Terrance Williams	WR	BE	2
+Blair Walsh	K	BE	0
+Ladarius Green	TE	BE	0
+Tavon Austin	WR	BE	2
+Ahmad Bradshaw	RB	BE	21
+Rod Streater	WR	BE	0
+Matt Asiata	RB	BE	13

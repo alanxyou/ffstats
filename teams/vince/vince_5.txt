@@ -1,0 +1,16 @@
+Colin Kaepernick	QB	QB	13
+Zac Stacy	RB	RB	5
+Frank Gore	RB	RB	10
+Calvin Johnson	WR	WR	0
+DeSean Jackson	WR	WR	21
+Jordan Reed	TE	TE	0
+Trent Richardson	RB	FLEX	4
+Saints D/ST	D/ST	D/ST	4
+Steven Hauschka	K	K	11
+Eric Decker	WR	BE	0
+Matt Ryan	QB	BE	14
+Chris Ivory	RB	BE	4
+Terrance West	RB	BE	3
+Brian Hartline	WR	BE	0
+Eric Ebron	TE	BE	0
+Jordan Todman	RB	BE	2

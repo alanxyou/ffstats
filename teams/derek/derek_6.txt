@@ -1,0 +1,16 @@
+Ben Roethlisberger	QB	QB	11
+LeSean McCoy	RB	RB	14
+Alfred Morris	RB	RB	5
+Jeremy Maclin	WR	WR	1
+Kendall Wright	WR	WR	0
+Larry Donnell	TE	TE	0
+Branden Oliver	RB	FLEX	18
+Colts D/ST	D/ST	D/ST	8
+Cody Parkey	K	K	10
+Chris Johnson	RB	BE	0
+Niles Paul	TE	BE	0
+Ryan Tannehill	QB	BE	17
+John Brown	WR	BE	4
+Isaiah Crowell	RB	BE	11
+Steelers D/ST	D/ST	BE	1
+Austin Davis	QB	BE	11

@@ -1,0 +1,16 @@
+Cam Newton	QB	QB	14
+Arian Foster	RB	RB	15
+Ben Tate	RB	RB	3
+Michael Floyd	WR	WR	10
+Dez Bryant	WR	WR	15
+Dwayne Allen	TE	TE	11
+Mark Ingram	RB	FLEX	2
+Cardinals D/ST	D/ST	D/ST	6
+Dan Bailey	K	K	8
+Drew Brees	QB	BE	20
+Percy Harvin	WR	BE	0
+Bishop Sankey	RB	BE	5
+Khiry Robinson	RB	BE	0
+DeAndre Hopkins	WR	BE	8
+Heath Miller	TE	BE	1
+Allen Hurns	WR	BE	0

@@ -1,0 +1,16 @@
+Tony Romo	QB	QB	15
+C.J. Spiller	RB	RB	5
+Shonn Greene	RB	RB	9
+Julio Jones	WR	WR	28
+Marques Colston	WR	WR	8
+Vernon Davis	TE	TE	0
+Greg Jennings	WR	FLEX	7
+Cardinals D/ST	D/ST	D/ST	4
+Sebastian Janikowski	K	K	11
+Adrian Peterson	RB	BE	0
+Alshon Jeffery	WR	BE	11
+Golden Tate	WR	BE	5
+Sammy Watkins	WR	BE	1
+Andre Williams	RB	BE	1
+Josh McCown	QB	BE	0
+Mike Tolbert	RB	BE	2

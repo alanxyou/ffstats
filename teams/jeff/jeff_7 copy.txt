@@ -1,0 +1,16 @@
+Brian Hoyer	QB	QB	4
+Jamaal Charles	RB	RB	16
+Frank Gore	RB	RB	2
+Jordy Nelson	WR	WR	14
+Kelvin Benjamin	WR	WR	12
+Jordan Cameron	TE	TE	0
+Andre Williams	RB	FLEX	5
+Browns D/ST	D/ST	D/ST	8
+Dan Carpenter	K	K	5
+Montee Ball	RB	BE	0
+Roddy White	WR	BE	16
+Josh Gordon	WR	BE	0
+Knile Davis	RB	BE	3
+Darren McFadden	RB	BE	10
+Matt Ryan	QB	QB	11
+Joique Bell	RB	BE	11

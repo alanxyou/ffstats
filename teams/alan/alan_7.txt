@@ -1,0 +1,16 @@
+Russell Wilson	QB	QB	36
+Justin Forsett	RB	RB	9
+Giovani Bernard	RB	RB	1
+Demaryius Thomas	WR	WR	29
+Mike Wallace	WR	WR	10
+Jace Amaro	TE	TE	2
+Lamar Miller	RB	FLEX	14
+Chargers D/ST	D/ST	D/ST	2
+Justin Tucker	K	K	9
+Jimmy Graham	TE	BE	0
+Keenan Allen	WR	BE	5
+Rashad Jennings	RB	BE	0
+49ers D/ST	D/ST	BE	-4
+James Starks	RB	BE	9
+Odell Beckham Jr.	WR	BE	16
+Reggie Wayne	WR	BE	1

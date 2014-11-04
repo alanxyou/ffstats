@@ -1,0 +1,16 @@
+Ryan Tannehill	QB	QB	13
+LeSean McCoy	RB	RB	9
+Branden Oliver	RB	RB	5
+Jeremy Maclin	WR	WR	30
+Kendall Wright	WR	WR	5
+Charles Clay	TE	TE	0
+Isaiah Crowell	RB	FLEX	0
+Colts D/ST	D/ST	D/ST	-6
+Cody Parkey	K	K	10
+Alfred Morris	RB	BE	14
+Ben Roethlisberger	QB	BE	44
+Larry Donnell	TE	BE	0
+Austin Davis	QB	BE	8
+Andre Holmes	WR	BE	12
+Texans D/ST	D/ST	BE	7
+Robert Griffin	QB	BE	0

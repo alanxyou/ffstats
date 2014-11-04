@@ -1,0 +1,16 @@
+Joe Flacco	QB	QB	4
+Trent Richardson	RB	RB	0
+Chris Ivory	RB	RB	16
+Calvin Johnson	WR	WR	0
+Eric Decker	WR	WR	4
+Jordan Reed	TE	TE	4
+DeSean Jackson	WR	FLEX	13
+Vikings D/ST	D/ST	D/ST	20
+Cairos Santos	K	K	12
+Zac Stacy	RB	BE	3
+Colin Kaepernick	QB	BE	0
+Terrance West	RB	BE	2
+Owen Daniels	TE	BE	0
+Michael Crabtree	WR	BE	0
+Rueben Randle	WR	BE	0
+Reggie Bush	RB	BE	0

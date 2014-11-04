@@ -1,0 +1,16 @@
+Tom Brady	QB	QB	9
+Jamaal Charles	RB	RB	0
+Montee Ball	RB	RB	8
+Jordy Nelson	WR	WR	26
+Kelvin Benjamin	WR	WR	4
+Zach Ertz	TE	TE	8
+Roddy White	WR	FLEX	4
+Buccaneers D/ST	D/ST	D/ST	4
+Dan Carpenter	K	K	16
+Michael Crabtree	WR	BE	14
+Jordan Cameron	TE	BE	0
+Lamar Miller	RB	BE	4
+Rueben Randle	WR	BE	9
+Alex Smith	QB	BE	14
+Carlos Hyde	RB	BE	0
+Josh Gordon	WR	BE	0

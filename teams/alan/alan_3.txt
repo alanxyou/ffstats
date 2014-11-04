@@ -1,0 +1,16 @@
+Russell Wilson	QB	QB	21
+Rashad Jennings	RB	RB	23
+Lamar Miller	RB	RB	12
+Demaryius Thomas	WR	WR	5
+Mike Wallace	WR	WR	8
+Jimmy Graham	TE	TE	5
+Vincent Jackson	WR	FLEX	7
+49ers D/ST	D/ST	D/ST	2
+Justin Tucker	K	K	11
+Keenan Allen	WR	BE	1
+Toby Gerhart	RB	BE	6
+Doug Baldwin	WR	BE	5
+James Starks	RB	BE	3
+Marqise Lee	WR	BE	0
+Joe Flacco	QB	BE	10
+Justin Forsett	RB	BE	6

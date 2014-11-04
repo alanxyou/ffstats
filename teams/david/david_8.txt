@@ -1,0 +1,16 @@
+Andrew Luck	QB	QB	26
+Shane Vereen	RB	RB	4
+Doug Martin	RB	RB	2
+Brandon Marshall	WR	WR	3
+Andre Johnson	WR	WR	5
+Greg Olsen	TE	TE	1
+Brian Quick	WR	FLEX	1
+Eagles D/ST	D/ST	D/ST	-1
+Caleb Sturgis	K	K	10
+Ryan Mathews	RB	BE	0
+Wes Welker	WR	BE	0
+Darren Sproles	RB	BE	0
+Alex Smith	QB	BE	10
+Eddie Royal	WR	BE	2
+Roy Helu	RB	BE	3
+Mike Evans	WR	BE	7

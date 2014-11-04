@@ -1,0 +1,16 @@
+Drew Brees	QB	QB	16
+Arian Foster	RB	RB	28
+Khiry Robinson	RB	RB	14
+Percy Harvin	WR	WR	2
+Dez Bryant	WR	WR	14
+Heath Miller	TE	TE	4
+DeAndre Hopkins	WR	FLEX	6
+Texans D/ST	D/ST	D/ST	2
+Dan Bailey	K	K	8
+Cam Newton	QB	BE	14
+Ben Tate	RB	BE	12
+Michael Floyd	WR	BE	0
+Bishop Sankey	RB	BE	2
+Mark Ingram	RB	BE	0
+Dwayne Allen	TE	BE	11
+Allen Hurns	WR	BE	2

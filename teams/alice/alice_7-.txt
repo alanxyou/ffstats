@@ -1,0 +1,16 @@
+Peyton Manning	QB	QB	28
+Le'Veon Bell	RB	RB	19
+Andre Ellington	RB	RB	15
+Randall Cobb	WR	WR	18
+Julian Edelman	WR	WR	4
+Martellus Bennett	TE	TE	5
+Antonio Gates	TE	FLEX	12
+Broncos D/ST	D/ST	D/ST	9
+Chandler Catanzaro	K	K	7
+Panthers D/ST	D/ST	BE	-2
+Marvin Jones	WR	BE	0
+Jordan Matthews	WR	BE	0
+Andrew Hawkins	WR	BE	11
+Jerick McKinnon	RB	BE	10
+Ronnie Hillman	RB	BE	21
+Malcom Floyd	WR	BE	5

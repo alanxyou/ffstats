@@ -1,0 +1,16 @@
+Tom Brady	QB	QB	22
+Marshawn Lynch	RB	RB	6
+DeMarco Murray	RB	RB	18
+Antonio Brown	WR	WR	13
+Torrey Smith	WR	WR	14
+Coby Fleener	TE	TE	6
+Cecil Shorts III	WR	FLEX	1
+Bears D/ST	D/ST	D/ST	5
+Nick Novak	K	K	9
+Cordarrelle Patterson	WR	BE	6
+Jay Cutler	QB	BE	7
+Zach Ertz	TE	BE	0
+Steven Jackson	RB	BE	2
+Anquan Boldin	WR	BE	5
+Pierre Thomas	RB	BE	2
+Ravens D/ST	D/ST	BE	14
