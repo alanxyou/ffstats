@@ -1,0 +1,16 @@
+Ben Roethlisberger	QB	QB	18
+Adrian Peterson	RB	RB	8
+Mark Ingram	RB	RB	19
+Amari Cooper	WR	WR	9
+Charles Johnson	WR	WR	4
+Owen Daniels	TE	TE	2
+Alshon Jeffery	WR	FLEX	12
+Packers D/ST	D/ST	D/ST	1
+Randy Bullock	K	K	7
+LeGarrette Blount	RB	BE	0
+Michael Floyd	WR	BE	2
+Tevin Coleman	RB	BE	8
+Bishop Sankey	RB	BE	22
+Philip Rivers	QB	BE	20
+Malcom Floyd	WR	BE	3
+Mohamed Sanu	WR	BE	5

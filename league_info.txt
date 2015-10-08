@@ -1,13 +1,13 @@
-8
-alan	Tebows Before Hoes	Alan You
-alice	We’ll Manning Handle You	Alice Weaver
-bryce	1.21 JJWatts	Bryce Hunt
-david	Crowning Head Hitters	David Rooney
-derek	The D’Wreck Yo Shit Ups	Derek Alfsen
-jeff	Les Cousins Dangereux	Jeff Singer
-michael	Omar Top Alan Bottom	Michael Woodall
-neel	Hylian Hoes	Neel Ranganath
-omar	Your Mom’s Favorite Porno	Omar Ahmed
-quinn	No Thanks, My Hernia is Fine	Quinn Dunlap
-rob	Team Girthiness	Rob Gish
-vince	Team Lauf	Vince Laufer
+4
+1	alan	Tebows Before Hoes	Alan You
+2	josh	Prez Trump’s Merkins	Josh Cohen
+3	hunt	1.21 JJWatts	Bryce Hunt, Katie Hunt
+4	david	Watts Up With Your Tate	David Rooney
+5	derek	Bryce’s B-Team	Derek Alfsen
+6	michael	Alan Top Omar Bottom	Michael Woodall
+7	jeff	I’ve Lost Trust in the Forsett	Jeff Singer
+8	omar	Your Mom’s Favorite Porno	Omar Ahmed
+9	rob	Gronkey Kong’s Deflated Balls	Rob Gish
+10	veith	Team Golden Taint	Vince Laufer, Keith Wanzeck
+11	quinn	No Thanks My Hernia Is Fine	Quinn Dunlap
+12	neel	Total Body Dolor	Neel Ranganath

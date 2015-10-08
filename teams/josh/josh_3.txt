@@ -1,0 +1,16 @@
+Ben Roethlisberger	QB	QB	5
+Adrian Peterson	RB	RB	24
+Mark Ingram	RB	RB	20
+Amari Cooper	WR	WR	19
+Nate Washington	WR	WR	8
+Eric Ebron	TE	TE	10
+Rishard Matthews	WR	FLEX	29
+Colts D/ST	D/ST	D/ST	9
+Randy Bullock	K	K	6
+LeGarrette Blount	RB	BE	27
+Tevin Coleman	RB	BE	0
+Bishop Sankey	RB	BE	6
+Philip Rivers	QB	BE	9
+Malcom Floyd	WR	BE	10
+Rams D/ST	D/ST	BE	12
+Ladarius Green	TE	BE	0

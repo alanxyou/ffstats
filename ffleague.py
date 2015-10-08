@@ -19,7 +19,7 @@ class League:
 			self.week_count = int(content[0].rstrip())
 
 			for line in content[1:]:
-				[short_name, team_name, owner_name] = line.rstrip().split('\t')
+				[team_id, short_name, team_name, owner_name] = line.rstrip().split('\t')
 				self.teams[short_name] = Team(short_name, team_name, owner_name, self.week_count, stem)
 	
 	

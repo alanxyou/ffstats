@@ -1,0 +1,16 @@
+Cam Newton	QB	QB	29
+Marshawn Lynch	RB	RB	2
+Alfred Morris	RB	RB	1
+Randall Cobb	WR	WR	35
+Torrey Smith	WR	WR	0
+Jason Witten	TE	TE	12
+Jordan Reed	TE	FLEX	15
+Browns D/ST	D/ST	D/ST	-3
+Mason Crosby	K	K	9
+Golden Tate	WR	BE	10
+Joique Bell	RB	BE	7
+Shane Vereen	RB	BE	2
+Devin Funchess	WR	BE	2
+Teddy Bridgewater	QB	BE	2
+Brandon Coleman	WR	BE	1
+Cole Beasley	WR	BE	8

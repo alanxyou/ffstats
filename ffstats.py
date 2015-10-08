@@ -40,7 +40,7 @@ print 'WEEKLY SUMMARIES'
 print '================'
 print
 
-for index in range(1,9):
+for index in range(1, league.week_count + 1):
 	print 'Week {:<2} Scoring Summary'.format(index)
 	print '-----------------------'
 	

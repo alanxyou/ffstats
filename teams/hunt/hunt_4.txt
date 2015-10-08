@@ -1,0 +1,16 @@
+Ryan Mallett	QB	QB	4
+Melvin Gordon	RB	RB	5
+Isaiah Crowell	RB	RB	15
+Julio Jones	WR	WR	7
+Donte Moncrief	WR	WR	13
+Jimmy Graham	TE	TE	6
+John Brown	WR	FLEX	15
+Bills D/ST	D/ST	D/ST	3
+Josh Scobee	K	K	7
+C.J. Anderson	RB	BE	7
+Todd Gurley	RB	BE	17
+Nelson Agholor	WR	BE	7
+Andre Williams	RB	BE	5
+David Johnson	RB	BE	15
+Dion Lewis	RB	BE	0
+Tyler Lockett	WR	BE	7

@@ -1,0 +1,16 @@
+Teddy Bridgewater	QB	QB	18
+Marshawn Lynch	RB	RB	9
+Alfred Morris	RB	RB	8
+Randall Cobb	WR	WR	19
+Cole Beasley	WR	WR	5
+Jason Witten	TE	TE	12
+Jordan Reed	TE	FLEX	14
+Titans D/ST	D/ST	D/ST	3
+Mason Crosby	K	K	16
+Golden Tate	WR	BE	14
+Cam Newton	QB	BE	26
+Joique Bell	RB	BE	3
+Shane Vereen	RB	BE	16
+Torrey Smith	WR	BE	26
+Devin Funchess	WR	BE	2
+Brandon Coleman	WR	BE	6

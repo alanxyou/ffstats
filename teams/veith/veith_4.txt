@@ -1,0 +1,15 @@
+Cam Newton	QB	QB	15
+Shane Vereen	RB	RB	2
+Thomas Rawls	RB	RB	5
+Randall Cobb	WR	WR	9
+Golden Tate	WR	WR	5
+Jason Witten	TE	TE	9
+Jordan Reed	TE	FLEX	6
+Packers D/ST	D/ST	D/ST	15
+Mason Crosby	K	K	4
+Marshawn Lynch	RB	BE	0
+Alfred Morris	RB	BE	8
+Torrey Smith	WR	BE	7
+Devin Funchess	WR	BE	0
+Teddy Bridgewater	QB	BE	14
+Brandon Coleman	WR	BE	4

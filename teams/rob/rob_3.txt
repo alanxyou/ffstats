@@ -1,16 +1,16 @@
-Jay Cutler	QB	QB	16
-Marshawn Lynch	RB	RB	24
-DeMarco Murray	RB	RB	17
-Antonio Brown	WR	WR	21
-Cordarrelle Patterson	WR	WR	6
-Dennis Pitta	TE	TE	1
-Darren McFadden	RB	FLEX	5
-Redskins D/ST	D/ST	D/ST	-2
-Greg Zuerlein	K	K	7
-Victor Cruz	WR	BE	16
-Torrey Smith	WR	BE	2
-Maurice Jones-Drew	RB	BE	0
-Knowshon Moreno	RB	BE	0
-Hakeem Nicks	WR	BE	11
-Knile Davis	RB	BE	17
-Brandin Cooks	WR	BE	7
+Tom Brady	QB	QB	22
+Jonathan Stewart	RB	RB	5
+T.J. Yeldon	RB	RB	5
+Odell Beckham Jr.	WR	WR	20
+Brandin Cooks	WR	WR	14
+Rob Gronkowski	TE	TE	14
+Steve Smith Sr.	WR	FLEX	43
+Cardinals D/ST	D/ST	D/ST	30
+Dan Bailey	K	K	4
+Doug Martin	RB	BE	4
+Roddy White	WR	BE	0
+Alfred Blue	RB	BE	19
+Sam Bradford	QB	BE	8
+Vernon Davis	TE	BE	0
+Knile Davis	RB	BE	0
+Karlos Williams	RB	BE	17

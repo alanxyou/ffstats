@@ -1,16 +1,16 @@
-Matthew Stafford	QB	QB	25
-Fred Jackson	RB	RB	8
-Ahmad Bradshaw	RB	RB	11
-Terrance Williams	WR	WR	19
-James Jones	WR	WR	8
-Delanie Walker	TE	TE	14
-Eddie Lacy	RB	FLEX	11
-Lions D/ST	D/ST	D/ST	7
-Stephen Gostkowski	K	K	2
-Julius Thomas	TE	BE	0
-Seahawks D/ST	D/ST	BE	0
-Emmanuel Sanders	WR	BE	0
-Justin Hunter	WR	BE	1
-Matt Asiata	RB	BE	27
-Travis Kelce	TE	BE	15
-Brian Quick	WR	BE	0
+Tyrod Taylor	QB	QB	13
+Jamaal Charles	RB	RB	20
+Giovani Bernard	RB	RB	12
+T.Y. Hilton	WR	WR	13
+Larry Fitzgerald	WR	WR	14
+Tyler Eifert	TE	TE	9
+Stevie Johnson	WR	FLEX	7
+Eagles D/ST	D/ST	D/ST	0
+Greg Zuerlein	K	K	6
+Lamar Miller	RB	BE	4
+Drew Brees	QB	BE	22
+Davante Adams	WR	BE	0
+Stephen Gostkowski	K	BE	0
+Texans D/ST	D/ST	BE	-4
+Cecil Shorts III	WR	BE	18
+Ted Ginn Jr.	WR	BE	15

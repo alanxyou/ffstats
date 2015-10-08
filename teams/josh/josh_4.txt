@@ -1,0 +1,16 @@
+Andy Dalton	QB	QB	17
+Adrian Peterson	RB	RB	19
+Mark Ingram	RB	RB	18
+Amari Cooper	WR	WR	14
+Rishard Matthews	WR	WR	2
+Eric Ebron	TE	TE	4
+Nate Washington	WR	FLEX	0
+Colts D/ST	D/ST	D/ST	1
+Chandler Catanzaro	K	K	17
+Alshon Jeffery	WR	BE	0
+LeGarrette Blount	RB	BE	0
+Tevin Coleman	RB	BE	0
+Bishop Sankey	RB	BE	0
+Philip Rivers	QB	BE	26
+Malcom Floyd	WR	BE	3
+Rams D/ST	D/ST	BE	7

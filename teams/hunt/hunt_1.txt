@@ -1,0 +1,16 @@
+Tony Romo	QB	QB	22
+C.J. Anderson	RB	RB	7
+Melvin Gordon	RB	RB	7
+Julio Jones	WR	WR	35
+Nelson Agholor	WR	WR	1
+Jimmy Graham	TE	TE	17
+John Brown	WR	FLEX	14
+Bills D/ST	D/ST	D/ST	9
+Josh Scobee	K	K	6
+Todd Gurley	RB	BE	0
+Isaiah Crowell	RB	BE	5
+Andre Williams	RB	BE	1
+David Johnson	RB	BE	12
+Donte Moncrief	WR	BE	16
+Dion Lewis	RB	BE	15
+Tyler Lockett	WR	BE	13
